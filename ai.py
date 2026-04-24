@@ -65,7 +65,7 @@ class GameAI:
 class MissionariesCannibalsUI:
     def __init__(self, root, path):
         self.root = root
-        self.root.title("Missionaries and Cannibals - AI Solver")
+        self.root.title("Missionaries and Cannibals Game")
         self.path = path
         self.current_step = 0
 
