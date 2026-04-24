@@ -1,4 +1,4 @@
-# Missionaries and Cannibals - AI Solver 🚣‍♂️
+# Missionaries and Cannibals Game 
 
 ##  Overview
 
