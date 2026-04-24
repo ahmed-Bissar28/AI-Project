@@ -58,20 +58,6 @@ project/
 
 ---
 
-##  How to Run
-
-### Requirements:
-
-* Python 3.x
-
-### Run:
-
-```bash
-python main.py
-```
-
----
-
 ##  How to Use
 
 * Click **Next Step** to move through the solution
@@ -96,17 +82,12 @@ python main.py
 
 ---
 
-##  Future Improvements
 
-* Add BFS and DFS for comparison
-* Auto-play animation
-* Performance metrics (time, nodes explored)
-* Web version using Streamlit
+## Authors
 
----
+**Developed by:**
 
-##  Author
+* **Ahmed Bissar**
+* **Ahmed Abbas**
+* **Ahmed Saad**
 
-#Ahmed Bissar
-#Ahmed saad
-#Ahmed Abbas
