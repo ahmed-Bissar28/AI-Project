@@ -72,7 +72,7 @@ class MissionariesCannibalsUI:
         self.canvas = tk.Canvas(root, width=800, height=400, bg="skyblue")
         self.canvas.pack(pady=20)
 
-        self.btn_next = tk.Button(root, text="الخطوة التالية (Next Step)", font=("Arial", 14), command=self.next_step)
+        self.btn_next = tk.Button(root, text=" Next Step", font=("Arial", 14), command=self.next_step)
         self.btn_next.pack()
 
         self.lbl_status = tk.Label(root, text="Start", font=("Arial", 16))
